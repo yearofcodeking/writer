@@ -1,0 +1,8 @@
+{
+  "name": "writer",
+  "version": "1.0.0",
+  "description": "Тексты для Telegram-канала: описание, закреп, посты, подписи и кнопки голосом автора, с ценностью и одной фразой призыва.",
+  "author": { "name": "faizullin studio" },
+  "license": "MIT",
+  "keywords": ["telegram", "copywriting", "posts", "channel", "телеграм", "посты", "копирайтинг", "закреп"]
+}
